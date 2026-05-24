@@ -51,19 +51,6 @@ Passionate about transforming raw data into actionable insights and building int
 | 📈 Data Analysis Projects | Data cleaning, visualization & insights using Python |
 | 🗃️ SQL Analysis | SQL queries and database analysis projects |
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssef-ali-3aba69345&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssef-ali-3aba69345&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
