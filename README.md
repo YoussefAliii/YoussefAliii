@@ -4,8 +4,7 @@
 </h1>
 
 <p align="center">
-I'm <b>Youssef Ali</b> — AI Student & Data Analysis Enthusiast from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Egypt</b>.
+I'm <b>Youssef Ali</b> — AI Student & Data Analysis Enthusiast from Egypt
 </p>
 
 <p align="center">
